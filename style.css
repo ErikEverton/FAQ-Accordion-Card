@@ -5,10 +5,6 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
-body {
-    overflow-x: hidden;
-}
-
 main {
     min-height: 100vh;
     background-image: linear-gradient(to bottom, #f2a4fe, #320764e2);
